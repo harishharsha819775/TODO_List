@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Production-grade SaaS task management, calendar planning, and productivity analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
